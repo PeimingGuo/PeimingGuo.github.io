@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://PeimingGuo.github.io</id>
     <title>郭培明律师</title>
-    <updated>2021-06-26T10:13:58.999Z</updated>
+    <updated>2021-06-26T10:42:06.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://PeimingGuo.github.io"/>
     <link rel="self" href="https://PeimingGuo.github.io/atom.xml"/>
@@ -11,9 +11,29 @@
     <icon>https://PeimingGuo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 郭培明律师</rights>
     <entry>
+        <title type="html"><![CDATA[郭培明律师提供包括但不限于下列法律服务]]></title>
+        <id>https://PeimingGuo.github.io/post/law-service/</id>
+        <link href="https://PeimingGuo.github.io/post/law-service/">
+        </link>
+        <updated>2021-06-26T10:33:28.000Z</updated>
+        <content type="html"><![CDATA[<p>🚥企业刑事辩护<br>
+郭培明律师为因EHS事故被指控涉嫌犯罪的公职人员、企业负责人、EHS管理人员做无罪、罪轻辩护，助其减责、免责。</p>
+<p>💡行政诉讼代理<br>
+郭培明律师代理因EHS工作而起的行政复议、行政诉讼案件，维护当事人合法权益，使其免遭公权力侵害。</p>
+<p>🏐民事案件代理<br>
+郭培明律师代理因EHS工作引发的民事诉讼和仲裁案件，维护当事人合法权益，使其免遭其他民事主体侵害。</p>
+<p>✅常年法律顾问<br>
+郭培明律师为各级应急管理部门、生态环境部门和各类生产经营单位提供常年法律顾问服务，辅助政府部门依法行政，协助企业合规经营。</p>
+<p>❤️线下法律培训<br>
+郭培明律师为各级人民政府及其组成部门和各类生产经营单位提供系列、专项法律培训服务，塑造法治思维，提高法治意识。</p>
+<p>🌈法律风险诊断<br>
+郭培明律师针对当事人EHS的具体情形进行法律风险诊断，提出应对措施和改进建议，协助当事人规避法律风险。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[企业做好安全生产合规的“红与黑”]]></title>
-        <id>https://PeimingGuo.github.io/post/qi-ye-zuo-hao-an-quan-sheng-chan-he-gui-de-hong-yu-hei/</id>
-        <link href="https://PeimingGuo.github.io/post/qi-ye-zuo-hao-an-quan-sheng-chan-he-gui-de-hong-yu-hei/">
+        <id>https://PeimingGuo.github.io/post/red-black/</id>
+        <link href="https://PeimingGuo.github.io/post/red-black/">
         </link>
         <updated>2021-06-26T07:06:29.000Z</updated>
         <content type="html"><![CDATA[<p>一、企业安全合规，有哪些好处？</p>
